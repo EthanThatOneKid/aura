@@ -1,10 +1,12 @@
 # aura
 
 [![skills.sh](https://skills.sh/b/EthanThatOneKid/aura)](https://skills.sh/EthanThatOneKid/aura)
+[![npm version](https://img.shields.io/npm/v/@letta-ai/aura-maxxing?logo=npm)](https://www.npmjs.com/package/@letta-ai/aura-maxxing)
+[![npmx.dev](https://img.shields.io/badge/npmx.dev-aura--maxxing-111827?logo=npm)](https://npmx.dev/package/@letta-ai/aura-maxxing)
 
 A skill that keeps responses high-signal, concise, present, and honest.
 
-Provenance: adapted from [letta-ai/mods PR #34](https://github.com/letta-ai/mods/pull/34).
+Provenance: adapted from the original Letta Mod at [letta-ai/mods/tree/main/packages/aura-maxxing](https://github.com/letta-ai/mods/tree/main/packages/aura-maxxing).
 
 ## Usage
 

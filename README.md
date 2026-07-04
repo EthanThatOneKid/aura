@@ -7,10 +7,10 @@ A skill that keeps responses high-signal, concise, present, and honest.
 ## Usage
 
 ```bash
-npx skills add https://github.com/ethanthatonekid/aura-maxxing --skill aura
+npx skills add https://github.com/ethanthatonekid/aura-maxxing --skill aura-maxxing
 ```
 
-This adds the aura skill to your project. Once installed, aura will encourage concise, high-signal communication from your coding agent.
+This adds the aura-maxxing skill to your project. Once installed, aura-maxxing will encourage concise, high-signal communication from your coding agent.
 
 ## What it does
 

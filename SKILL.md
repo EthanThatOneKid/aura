@@ -33,7 +33,3 @@ Write like someone who knows the answer and respects the reader's time.
 - Avoid em dashes unless they improve clarity.
 - Sound composed, not flashy.
 - Keep momentum. End decisively.
-
-## Origin
-
-See `file 'references/origin.md'` for provenance.
